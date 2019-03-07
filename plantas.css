@@ -1,0 +1,21 @@
+body {
+    background-image: url(imagens/fundo.png)
+}
+
+h1 {
+    color: limegreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+p {
+    text-align: justify;
+}
+
+blockquote {
+    text-align: justify;
+}
+
+img {
+    border: 4px solid limegreen;
+}
